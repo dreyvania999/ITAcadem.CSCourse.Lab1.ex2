@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ITAcadem.CSCourse.Lab1.ex2": {
+      "commandName": "Project",
+      "commandLineArgs": "< DataFile.txt"
+    }
+  }
+}
